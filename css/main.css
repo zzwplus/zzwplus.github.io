@@ -1226,9 +1226,12 @@ pre .javascript .function {
 .post-body p a {
   color: #0593d3;
   border-bottom: none;
+  border-bottom: 1px solid #0593d3;
 }
 .post-body p a:hover {
-  color: #ff106c;
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
   text-decoration: underline;
 }
 .post-body .fancybox img {
@@ -1835,7 +1838,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1c373b;
+  background: #465417;
 }
 .links-of-blogroll {
   font-size: 13px;

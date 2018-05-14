@@ -191,35 +191,6 @@
   </entry>
   
   <entry>
-    <title>关于hexo使用markdown的问题</title>
-    <link href="http://zzwplus.top/2018/04/05/%E5%85%B3%E4%BA%8Ehexo%E4%BD%BF%E7%94%A8markdown%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-    <id>http://zzwplus.top/2018/04/05/关于hexo使用markdown的问题/</id>
-    <published>2018-04-05T03:06:50.000Z</published>
-    <updated>2018-04-28T12:16:27.477Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><s>相信不少使用<code>vs code</code>或是其他<code>markdown编辑器</code>编辑<code>markdown文件(.md)</code>的朋友都会发现，在编辑器中正常显示的文本和代码块，一旦部署到网站上就会出现错误，不能得到想要的结果。这篇博文便是专门针对有关这方面的问题而写的。以后会不定期更新。同时也欢迎大家在底下留言板块建言献策。</s><br>附上大佬的hexo+next<a href="http://yangbingdong.com/2017/build-blog-hexo-advanced/" target="_blank" rel="noopener">博客优化指南</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;&lt;s&gt;相信不少使用&lt;code&gt;vs code&lt;/code&gt;或是其他&lt;code
-      
-    
-    </summary>
-    
-      <category term="工具" scheme="http://zzwplus.top/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="码字" scheme="http://zzwplus.top/categories/%E7%A0%81%E5%AD%97/"/>
-    
-    
-      <category term="hexo" scheme="http://zzwplus.top/tags/hexo/"/>
-    
-      <category term="markdown" scheme="http://zzwplus.top/tags/markdown/"/>
-    
-  </entry>
-  
-  <entry>
     <title>CUGB查询脚本</title>
     <link href="http://zzwplus.top/2018/04/01/CUGB%E6%9F%A5%E8%AF%A2%E8%84%9A%E6%9C%AC/"/>
     <id>http://zzwplus.top/2018/04/01/CUGB查询脚本/</id>

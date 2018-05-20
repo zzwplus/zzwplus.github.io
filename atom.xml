@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zzwplus.top/"/>
-  <updated>2018-05-19T04:33:04.504Z</updated>
+  <updated>2018-05-20T11:14:39.014Z</updated>
   <id>http://zzwplus.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo使用中出现的一些问题</title>
+    <link href="http://zzwplus.top/2018/05/20/hexo%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
+    <id>http://zzwplus.top/2018/05/20/hexo使用中出现的一些问题/</id>
+    <published>2018-05-20T11:02:21.000Z</published>
+    <updated>2018-05-20T11:14:39.014Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>写技术博客（我不知道这算不算）需要很华丽的辞藻和岑长的铺垫吗？不需要。</p><p>问题x1<br><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ssh: Could <span class="keyword">not</span> resolve hostname github.com: Name <span class="keyword">or</span><span class="built_in"> service </span><span class="keyword">not</span> known </span><br><span class="line">fatal: Could <span class="keyword">not</span> read <span class="keyword">from</span> remote repository.</span><br></pre></td></tr></table></figure></p><p>解决：<br>可能网络连接问题，过一段时间就好了(别笑，认真的)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;写技术博客（我不知道这算不算）需要很华丽的辞藻和岑长的铺垫吗？不需要。&lt;/p
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2018超星人文的物理学期末考试</title>
